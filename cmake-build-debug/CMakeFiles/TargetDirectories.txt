@@ -1,0 +1,3 @@
+/home/ken/Project/Man/IfcMan/cmake-build-debug/CMakeFiles/IfcMan.dir
+/home/ken/Project/Man/IfcMan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ken/Project/Man/IfcMan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
